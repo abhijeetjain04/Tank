@@ -12,5 +12,4 @@
 
 
 **3. SIMPLE UI FOR MAIN MENU**
-
-![Main_menu](https://user-images.githubusercontent.com/25602737/59966921-78e17d80-9540-11e9-8f59-d284dec236db.png)
+![Main_menu](https://user-images.githubusercontent.com/25602737/59966938-b80fce80-9540-11e9-87b2-f1513c3b8cf9.png)
